@@ -5,4 +5,4 @@
 
 snyrok06@mail.ru
 
-### Фото ![Фото](D:\Resume\sur.png)
+### Фото ![Фото](sur.png)
